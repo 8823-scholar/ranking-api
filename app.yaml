@@ -1,0 +1,8 @@
+application: ranking-api
+version: 1
+runtime: php
+api_version: 1
+
+handlers:
+- url: /.*
+  script: Web/index.php
