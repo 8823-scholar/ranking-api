@@ -5,4 +5,4 @@ api_version: 1
 
 handlers:
 - url: /.*
-  script: Web/index.php
+  script: App/Web/index.php
